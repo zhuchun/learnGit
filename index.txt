@@ -1,5 +1,5 @@
 Fruits
 	Apple
 	Banana
-	Chocolate
+	Cherry
 
