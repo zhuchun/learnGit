@@ -1,7 +1,7 @@
 Fruits
 	Apple
 	Banana
-	Chocolate
+	Cherry
 
 Meat
 	Beaf
